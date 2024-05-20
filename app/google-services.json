@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086945700882",
+    "project_id": "george-ce4f5",
+    "storage_bucket": "george-ce4f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086945700882:android:089538de87bbf45d30bccb",
+        "android_client_info": {
+          "package_name": "com.apk.george"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_AidlGzEoHzVNoUIFMg7JTABhb3MEMsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
